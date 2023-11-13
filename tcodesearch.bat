@@ -1,1 +1,1 @@
-./venv/bin/python3 TcodeLite.py
+python TcodeLite.py
