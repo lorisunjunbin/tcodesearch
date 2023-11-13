@@ -1,1 +1,1 @@
-nohup ./venv/bin/python3 TcodeLite.py > /dev/null &
+./venv/bin/python3 TcodeLite.py
