@@ -1,0 +1,7 @@
+application:
+  title: 'TCode Search'
+  logfilename: TcodeLite
+  dbpath: ./datastore/TcodeLiteStore.db # sqlite3
+
+
+  

@@ -1,0 +1,4 @@
+wxpython
+openpyxl
+pyyaml
+logging
