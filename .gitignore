@@ -1,8 +1,7 @@
-log/
 venv/
+.idea
 
+*.log
 *.pyc
 *.sap
 *.png
-.idea
-.vscode
