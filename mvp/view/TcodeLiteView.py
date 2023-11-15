@@ -48,9 +48,9 @@ class TcodeLiteView(wx.Frame):
         self.table = wx.dataview.DataViewListCtrl(
             self, wx.ID_ANY, size=(1000, 400))
 
-        self.table.AppendTextColumn("TCODE", width=200)
+        self.table.AppendTextColumn("TCODE", width=180)
         self.table.AppendTextColumn("TCODE_DESC", width=400)
-        self.table.AppendTextColumn("comments", width=800)
+        self.table.AppendTextColumn("comments", width=400)
         self.table.AppendTextColumn("favorite", width=100)
 
         self.main_sizer.Add(self.table, proportion=4,
